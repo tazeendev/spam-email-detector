@@ -36,5 +36,8 @@ Created a specialized `clean_texts` function that performs:
 * Split the dataset using a **Stratified Train-Test Split (80/20)** to maintain class proportions.
 * Trained a **Multinomial Naive Bayes** classifier, yielding excellent accuracy and precision metrics perfectly suited for filtering out malicious spam.
 
-How to Run Locally
+ How to Run Locally
+Using Streamlit
 Clone the repository:
+Check the live ML model on Hugging Face:
+https://tazeenzahrabatool-email-spam-detector.hf.space/?logs=container&__theme=system&deep_link=fQgMCFV57Y0
